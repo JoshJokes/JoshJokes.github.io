@@ -5,5 +5,5 @@
      ---
      title: "<The joke that you want to write>."
      ---
- #### Note:(You can see the other files to get an idea.
+ #### Note:You can see the other files to get an idea.
  
