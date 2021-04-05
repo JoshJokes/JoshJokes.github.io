@@ -1,11 +1,11 @@
-baseURL = ""
+baseURL = "https://joshjokes.github.io"
 languageCode = "en-us"
 title = "Josh Facts"
 theme = "journal"
 publishDir= "docs"
 
 [params]
-  description = "Blog meta description."
+  description = "Best satirical jokes."
   githubUsername = "ankitjosh78"
   instagramUsername = "joshankit78"
   tagline = "A list of the best Josh facts (jokes). "
