@@ -1,0 +1,21 @@
+{{ partial "top.html" . }}
+
+  <article class="posts">
+
+    {{ range site.RegularPages.GroupByDate "2006" -}}
+    <section>
+      <h3>Top Josh Facts / Jokes: </h3>
+
+      <ol>
+        {{ range .Pages -}}
+        <li>
+            <p><div class="container">{{ .Title }}</div><p>
+        </li>
+        {{- end }}
+      </ol>
+    </section>
+    {{ end }}
+
+  </article>
+
+{{ partial "bottom.html" . }}
