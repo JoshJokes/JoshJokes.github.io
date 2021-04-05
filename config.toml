@@ -7,5 +7,5 @@ publishDir= "docs"
 [params]
   description = "Blog meta description."
   githubUsername = "ankitjosh78"
-  twitterUsername = "josh_ankit"
+  instagramUsername = "joshankit78"
   tagline = "A list of the best Josh facts (jokes). "
