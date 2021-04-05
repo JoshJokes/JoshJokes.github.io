@@ -16,9 +16,9 @@
  
  #### Step 3: Write your name in the [CONTRIBUTORS.md](CONTRIBUTORS.md) in the format 
       [Your Name](your github profile link)
- #### Step 4: Run "hugo" in the root directory of the project.
-      hugo
  ##### To access the site in your local machine run:
       hugo server -D  (It should get started in the locahost:1313)
- #### You can now make changes and it should be live. Once done, run "hugo" again in the root directory.
+ #### You can now make changes and it should be live.
+ #### Step 4: Run "hugo" in the root directory of the project.
+      hugo
  #### Step 5: Now, you can do a pull request.
