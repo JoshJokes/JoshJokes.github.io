@@ -2,6 +2,7 @@ baseURL = "https://google.com/"
 languageCode = "en-us"
 title = "Josh Facts"
 theme = "journal"
+publishDir= "docs"
 
 [params]
   description = "Blog meta description."
