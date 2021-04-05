@@ -1,1 +1,1 @@
-# A static site containing a list of best Josh facts (jokes.)
+# A static site built using Hugo which contains a list of Josh facts (jokes).
