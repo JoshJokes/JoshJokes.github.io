@@ -1,4 +1,7 @@
 # To Contritube:
+ #### Step0: Make a new branch with your username and checkout that.
+      git branch yourUserName
+      git checkout yourUserName
  #### Step1: Go to the 'content/' folder:
  #### Step2: Make a new 'file.md' where "file" should be a number but not clash with the ones already present.
  #### Contents of the file:
