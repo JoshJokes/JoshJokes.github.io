@@ -7,3 +7,5 @@
      ---
  #### Note:You can see the other files to get an idea.
  
+ #### Step 3: Write your name in the [CONTRIBUTORS.md](CONTRIBUTORS.md) in the format 
+      [Your Name](your github profile link)
