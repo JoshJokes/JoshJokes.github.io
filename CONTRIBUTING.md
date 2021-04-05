@@ -1,7 +1,8 @@
 # To Contritube:
  ##### First of all make sure Hugo is installed on your machine.
        hugo version
- ##### If not installed then see [this](https://gohugo.io/getting-started/installing), if you are using linux then it might already be available in your package manager, so you can install it from there. Eg: sudo pacman -S hugo (For arch).
+ ##### If not installed then see [this](https://gohugo.io/getting-started/installing)
+ ##### Note: If you are using linux then it might already be available in your package manager, so you can install it from there. Eg: sudo pacman -S hugo (For arch).
  #### Step0: Make a new branch with your username and checkout that.
       git branch yourUserName
       git checkout yourUserName
