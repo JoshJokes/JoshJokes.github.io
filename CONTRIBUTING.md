@@ -3,11 +3,11 @@
        hugo version
  ##### If not installed then see [this](https://gohugo.io/getting-started/installing)
  ##### Note: If you are using linux then it might already be available in your package manager, so you can install it from there. Eg: sudo pacman -S hugo (For arch).
- #### Step0: Make a new branch with your username and checkout that.
+ #### Step 0: Make a new branch with your username and checkout that.
       git branch yourUserName
       git checkout yourUserName
- #### Step1: Go to the 'content/' folder:
- #### Step2: Make a new 'file.md' where "file" should be a number but not clash with the ones already present.
+ #### Step 1: Go to the 'content/' folder:
+ #### Step 2: Make a new 'file.md' where "file" should be a number but not clash with the ones already present.
  #### Contents of the file:
      ---
      title: "<The joke that you want to write>."
