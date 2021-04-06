@@ -1,61 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://joshjokes.github.io/categories/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/19/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/8/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/11/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/23/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/18/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/14/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/24/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/21/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/20/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/10/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/3/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/6/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/16/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/17/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/9/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/13/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/5/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/tags/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/1/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/15/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/7/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/22/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/26/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/4/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/12/</loc>
-  </url><url>
-    <loc>https://joshjokes.github.io/25/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>https://joshjokes.github.io/</loc>
+  <lastmod>2021-03-04T11:11:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://joshjokes.github.io/index.html</loc>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
